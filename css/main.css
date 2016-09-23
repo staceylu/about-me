@@ -1,0 +1,13 @@
+p {
+	color: red;
+}
+a {
+	color: gray;
+}
+a:hover {
+	color: purple;
+}
+div {
+  border: 1px solid gray;
+  padding: 30px;
+}
